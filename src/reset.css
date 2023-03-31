@@ -1,0 +1,14 @@
+* {
+    text-decoration: none;
+    list-style: none;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: white;
+}
+
+*:hover {
+    transition: 0.2s ease-in-out;
+}
